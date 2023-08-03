@@ -1,0 +1,49 @@
+{
+    "Version": "0.1",
+    "ListaRecetas": [
+        {
+            "Nombre": "Arroz con Pollo",
+            "Categoria": "Plato Fuerte",
+            "Ingredientes": "- Arroz, Pollo",
+            "Preparación": "Se mezcla el arroz con el pollo",
+            "Imagenes": [
+                "https://www.comidastipicasperuanas.com/wp-content/uploads/2022/04/Receta-de-arroz-con-pollo-Comidas-Tipicas-Peruanas.gif",
+                "https://d1uz88p17r663j.cloudfront.net/original/e4710bfdb6b8546a182a62ff7ef7a5c8_ARROZ___.png",
+                "https://elsabor.com.ec/wp-content/uploads/2022/02/arroz-pollo.jpg"
+            ]
+        },
+        {
+            "Nombre": "Ceviche",
+            "Categoria": "Entrada",
+            "Ingredientes": "- Pescado, Olores",
+            "Preparación": "Se deja el pesado reposando en la naranjilla",
+            "Imagenes": [
+                "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600_square.jpg",
+                "https://assets.unileversolutions.com/recipes-v2/93256.jpg",
+                "https://micevichedehoy.com/wp-content/uploads/2018/10/ceviche-carretillero_700x467-697x465.jpg"
+            ]
+        },
+        {
+            "Nombre": "Tiramitsu",
+            "Categoria": "Postre",
+            "Ingredientes": "- Harina, leche",
+            "Preparación": "Se mezclan los ingredientes",
+            "Imagenes": [
+                "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/08/tiramisu-postre-italiano.jpg",
+                "https://www.ilolay.com.ar/uploads/recetas/1658880862-Tiramisu.jpg",
+                "https://www.kingarthurbaking.com/sites/default/files/2023-03/Tiramisu_1426.jpg"
+            ]
+        },
+        {
+            "Nombre": "Batido de Fresa con leche",
+            "Categoria": "Bebidas",
+            "Ingredientes": "- Fresa, leche",
+            "Preparación": "Se bate la fresa con la leche",
+            "Imagenes": [
+                "https://www.pequerecetas.com/wp-content/uploads/2021/04/batido-de-fresa-casero.jpeg",
+                "https://www.comedera.com/wp-content/uploads/2022/04/Batido-de-fresa-shutterstock_398479468.jpg",
+                "https://okdiario.com/img/2019/12/19/receta-de-batido-refrescante-de-fresa-y-leche-condensada.jpg"
+            ]
+        }
+    ]
+}
