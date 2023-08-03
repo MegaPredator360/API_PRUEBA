@@ -2,6 +2,7 @@
     "Version": "0.1",
     "ListaRecetas": [
         {
+            "id": "1",
             "Nombre": "Arroz con Pollo",
             "Categoria": "Plato Fuerte",
             "Ingredientes": "- Arroz, Pollo",
@@ -13,6 +14,7 @@
             ]
         },
         {
+            "id": "2",
             "Nombre": "Ceviche",
             "Categoria": "Entrada",
             "Ingredientes": "- Pescado, Olores",
@@ -24,6 +26,7 @@
             ]
         },
         {
+            "id": "3",
             "Nombre": "Tiramitsu",
             "Categoria": "Postre",
             "Ingredientes": "- Harina, leche",
@@ -35,6 +38,7 @@
             ]
         },
         {
+            "id": "4",
             "Nombre": "Batido de Fresa con leche",
             "Categoria": "Bebidas",
             "Ingredientes": "- Fresa, leche",
