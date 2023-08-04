@@ -39,8 +39,8 @@
         },
         {
             "Id": "4",
-            "Nombre": "BatIdo de Fresa con leche",
-            "Categoria": "BebIdas",
+            "Nombre": "Batido de Fresa con leche",
+            "Categoria": "Bebidas",
             "Ingredientes": "- Fresa, leche",
             "Preparacion": "Se bate la fresa con la leche",
             "Imagenes": [
