@@ -5,8 +5,8 @@
             "Id": "1",
             "Nombre": "Arroz con Pollo",
             "Categoria": "Plato Fuerte",
-            "Ingredientes": "- Arroz, Pollo",
-            "Preparacion": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nam pellentesque, tortor et viverra tempus, risus metus maximus nibh, vitae blandit mi nisl ac leo. Suspendisse lobortis scelerisque blandit. Suspendisse id libero ante. Duis consectetur lorem ut pretium condimentum. Praesent elementum tempus lobortis. Nam luctus scelerisque nulla, at condimentum turpis ultricies sit amet. Vestibulum at blandit ipsum. Aenean fermentum quis lacus id fringilla. Aliquam suscipit luctus ipsum eu hendrerit. Etiam lectus est, eleifend at laoreet eget, finibus id elit. Donec augue ipsum, consequat vel erat nec, finibus porta tortor. Sed laoreet elit ultrices, tincidunt nisi eu, viverra velit. Mauris maximus viverra nibh quis feugiat. Aenean eget augue arcu. Fusce semper feugiat quam ut faucibus.\nUt faucibus dolor porta, cursus nibh id, dictum lorem. Fusce non mauris ac nunc condimentum aliquam sit amet sit amet mauris. Pellentesque euismod ante et fermentum vulputate. Donec efficitur mauris non sem rutrum, et imperdiet sapien aliquam. Quisque sodales non orci a tempus. Vestibulum blandit non ligula ac sagittis. Nulla interdum nibh eros, quis volutpat quam consequat at. Nulla laoreet elementum dui vel consectetur.\nQuisque vel faucibus metus. Pellentesque non justo dolor. Cras pretium scelerisque blandit. Aliquam ac semper nisl. Interdum et malesuada fames ac ante ipsum primis in faucibus. Nunc ac justo bibendum quam venenatis tristique. Nunc eget eros quis felis fermentum aliquet at at metus. Praesent elementum libero mattis, luctus nisi eu, mattis felis. Cras nec orci dui. Nullam malesuada lacinia volutpat. Quisque et suscipit neque, et egestas arcu. Integer quis pretium arcu, tempus ullamcorper nulla. Aliquam accumsan vulputate molestie. Nam id tempor lectus, nec interdum ex.",
+            "Ingredientes": "(454 g.) 1 Libra Pechuga de pollo,(10 g.) 1 Sobre Consomé De Pollo, 1 Cucharadita Aceite Vegetal, (100 g.) 3/4 Taza Pimentón rojo Cortado en cubitos, (55 g.) 1/2 Taza Apio Cortado finamente, (75 g.) 1/2 Taza Cebolla Cortada finamente, (75 g.) 2/3 Taza Aceitunas, (25 g.) 1/8 Taza Alcaparras, (300 g.) 1 1/2 Taza Arroz, (8 g.) 1/8 Taza Cilantro Cortado finamente, 3 Tazas Agua, (10 g.) 1 Sobre Gallinita Sabor y Color, (112 g.) 1 Taza Zanahorias Rallada",
+            "Preparacion": "1.  En un tazón, combinar el pollo con el Consomé De Pollo MAGGI® y marinar por 5 minutos, En una cacerola a fuego medio, agregar el aceite, el pollo y cocinar por 5 minutos o hasta que esté dorado, Añadir el pimiento, el apio, la cebolla, las aceitunas, las alcaparras y cocinar por 5 minutos, Agregar el arroz, el cilantro, el agua, el Sabor y Color MAGGI®, revolver y cocinar hasta que el agua se consuma, Añadir la zanahoria rallada, revolver, tapar y cocinar por 5 minutos.",
             "Imagenes": [
                 "https://elsabor.com.ec/wp-content/uploads/2022/02/arroz-pollo.jpg",
                 "https://d1uz88p17r663j.cloudfront.net/original/e4710bfdb6b8546a182a62ff7ef7a5c8_ARROZ___.png",
@@ -17,8 +17,8 @@
             "Id": "2",
             "Nombre": "Ceviche",
             "Categoria": "Entrada",
-            "Ingredientes": "- Pescado, Olores",
-            "Preparacion": "Se deja el pesado reposando en la naranjilla",
+            "Ingredientes": " 250 gramos de Corvina en trocitos, 150 gramos de Camarones pelados, 1 cucharilla de Cebolla finamente picada, 1 cucharilla de Chile dulce finamente picado, 1 cucharilla de Culantro finamente picado, 30 mililitros de Jugo de limón, 2 cucharas de Vinagre, 1 Rodaja de aguacate, 1 pizca de Sal, 1 pizca de Pimienta",
+            "Preparacion": "Primeramente cocine el pescado con antelación por 3 horas en un recipiente hermético con el jugo de limón y el vinagre, a las 2 horas agregue los camarones y reserve, Paso 2 :Luego, reduzca el ácido agregando un poco de agua o soda, Paso 3 :Posteriormente integre todos los vegetales crudos, la sal y la pimienta, sirva y coloque encima la rodaja de aguacate como complemento",
             "Imagenes": [
                 "https://cdn0.recetasgratis.net/es/posts/7/4/1/ceviche_peruano_18147_600_square.jpg",
                 "https://assets.unileversolutions.com/recipes-v2/93256.jpg",
@@ -29,8 +29,8 @@
             "Id": "3",
             "Nombre": "Tiramitsu",
             "Categoria": "Postre",
-            "Ingredientes": "- Harina, leche",
-            "Preparacion": "Se mezclan los ingredientes",
+            "Ingredientes": "500 ml de agua, 4 cucharadas colmadas de café granulado, 5 cucharadas de amaretto (o a gusto), 1 cucharada de azúcar, 4 yemas de huevo, 250g de azúcar flor, 1 queso crema, 100g de crema de leche, 500 ml de crema para batir muy fría, 500g de galletas de champaña, Chocolate en Polvo Gourmet para espolvorear",
+            "Preparacion": "Hervir los 500 ml de agua. Verter sobre un bol y agregar el café. Revolver bien. Añadir el amaretto y azúcar y revolver. Reservar.En un bol, batir las yemas con 125g de azúcar flor, hasta que la mezcla quede uniforme y de un color amarillo claro. Reservar. En otro bol, batir el queso crema previamente molido con la crema de leche, hasta que quede una mezcla suave. Reservar. En otro bol, batir la crema para batir (recién sacada del refrigerador) e ir agregando de a poco 125g de azúcar flor, sin parar de batir. La crema tiene que quedar firme, cuidando que no se corte. Juntar la mezcla de las yemas con la mezcla del queso crema con movimientos envolventes, hasta que quede una mezcla homogénea. Agregar esta mezcla de a poco a la crema batida, con movimientos envolventes y cuidando que quede todo bien mezclado. Armado del postre: Usar una fuente grande de 35x25cm. Mojar una a una las galletas de champaña en el café (cuidando de que no queden con exceso de líquido y se rompan) e ir poniéndolas en la base de la fuente, hasta cubrirla completamente. Agregar la mitad de la mezcla. Luego, agregar otra capa de galletas de champaña mojadas en café. Poner la otra mitad de la mezcla. Espolvorear completamente con Chocolate en Polvo Gourmet, pasando éste por un colador. Poner en el freezer por 2 horas para que obtenga consistencia. Luego bajar al refrigerador y mantenerlo ahí.",
             "Imagenes": [
                 "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/08/tiramisu-postre-italiano.jpg",
                 "https://www.ilolay.com.ar/uploads/recetas/1658880862-Tiramisu.jpg",
@@ -39,12 +39,72 @@
         },
         {
             "Id": "4",
+            "Nombre": "Sopa de lima con tortilla frita ",
+            "Categoria": "Plato Fuerte",
+            "Ingredientes": "2 ½ litros de caldo de pollo, 1 pechuga de pollo sin hueso, 2 tazas de tiras de tortilla frita, 2 limas cortadas en rodajas, 2 hojas de laurel, ½ taza de cebolla picada, ½ taza de jitomate picado, ¼ taza de cilantro picado, 4 chiles habaneros asados",
+            "Preparacion": "Cuece la pechuga en el caldo de pollo durante 30 minutos con una lima y laurel, deja enfriar y desmenuza. Regresa el pollo al caldo, rectifica el sazón y sirve. Termina con una rebanada de lima, un chile habanero, tiras de tortilla, jitomate y cebolla. Sabemos que tienes antojo de una sopa con sabor muy original, por eso no dudamos en compartirte esta sopa de lima con tortilla frita. Atrévete a prepararla y disfrutarla en casa.",
+            "Imagenes": [
+                "https://editorialtelevisa.brightspotcdn.com/wp-content/uploads/2019/11/sopa-de-lima.jpg",
+                "https://assets.unileversolutions.com/recipes-v2/240849.jpg",
+                "https://www.196flavors.com/wp-content/uploads/2012/12/sopa-de-lima-2-FP.jpg"
+            ]
+        },
+        {
+            "Id": "5",
+            "Nombre": "Espaguetis con alcachofas y langostinos. Receta italiana. ",
+            "Categoria": "Plato Fuerte",
+            "Ingredientes": "320 g. de spaghetti de Garofalo, 16 langostinos o gambones, 4 alcachofas, 1 diente de ajo, 100 ml. de brandy o coñac, 1 limón, Sal y pimienta negra recién molida (al gusto de cada casa), Tomillo fresco, Aceite de oliva virgen extra",
+            "Preparacion": " Para preparar las alcachofas debemos comenzar por cortar el tallo, dejando unos pocos centímetros unidos a la flor donde es comestible y tierno. Eliminamos las hojas exteriores más duras, dejando solo el corazón blando de la alcachofa. Cortamos la parte superior de la alcachofa, alrededor de 2-3 centímetros., Con la punta de un cuchillo pequeño pelamos la parte restante del tallo para eliminar la parte externa más dura y dejar solo el corazón blando. Cortamos las alcachofas longitudinalmente en 4 o 6 partes. A medida que las cortamos, las colocamos en un bowl con agua fría a la que le añadiremos el zumo de un limón. Con el limón ayudaremos a que las alcachofas se oxiden lo mínimo posible., Pelamos las colas de los langostinos y, con un cuchillo de punta, hacemos una pequeña incisión en el lomo para retirar la tripa. La podremos distinguir claramente ya que es un hilo oscuro que va de lado a lado de la cola., En una cazuela amplia calentamos un chorrito de aceite de oliva virgen extra y añadimos el diente de ajo pelado. Freímos el ajo unos segundos e incorporamos las colas de los langostinos. Las cocinamos por ambos lados 2 minutos y retiramos., En la misma cazuela y con el mismo aceite de los langostinos, incorporamos las alcachofas escurridas y secas. Salteamos las alcachofas, a fuego medio, hasta que comiencen a dorarse. Salpimentamos, añadimos un poco de tomillo y regamos con el brandy., Cocinamos 3 o 4 minutos más y añadimos las colas de langostinos que tenemos reservadas. Mezclamos bien y retiramos del fuego.",
+            "Imagenes": [
+                "https://www.recetasderechupete.com/wp-content/uploads/2022/09/Espaguetis-con-alcachofas-y-langostinos.jpg",
+                "https://www.recetas-italia.com/base/stock/Recipe/90-image/90-image_web.jpg.webp",
+                "https://gourmet.expob2b.es/uploads/fotos_noticias/2020/01/w800px_20891-165771-recetas-originalesespaguettis-con-alcachofas.jpg"
+            ]
+        },
+        {
+            "Id": "6",
+            "Nombre": "tarta francesa de manzana y almendra ",
+            "Categoria": "Postre",
+            "Ingredientes": "Para 6 personas, Yogur natural 150 ml, Huevo talla L 3, Mantequilla 170 gExtracto de vainilla , 1 cucharadita, Azúcar 150 g, Manzana 6, Harina de trigo 200 gBaking Powder Royal 8 g, Bicarbonato sódico , media cucharadita, Almendra laminada 60 g, Azúcar glas30 gCómo hacer tarta francesa de manzana y almendraDificultad: FácilTiempo total1 h 10 mElaboración20 m Cocción50 m ",
+            "Preparacion": "Comenzaremos pelando, descorazonando y partiendo las manzanas en cuartos. Una vez en cuartos las cortamos en láminas finas. Reservamos. Precalentamos el horno a 180 º centígrados con calor arriba y abajo., En un bol batimos la mantequilla a temperatura ambiente junto con el azúcar con unas varillas o batidora con varillas, hasta que la mezcla suave y esponjosa. Añadimos los huevos y la vainilla y seguimos batiendo durante tres minutos más.Echamos el yogur a la mezcla y combinamos con una espátula de silicona. Por otra parte en otro bol mezclamos la harina, el Baking Powder Royal y el bicarbonato, tamizándola posteriormente con un colador y lo mezclamos con los ingredientes húmedos., Engrasamos un molde redondo para tarta de unos 25 centímetros de diámetro con un poco de mantequilla, le forramos la base con papel de hornear y vertemos la mitad de la mezcla de la masa. Extendemos con una espátula y colocamos desordenadamente las láminas de manzana, dejando algunas para la decoración., Echamos por encima el resto de la masa cubriendo las manzanas, y decoramos al gusto con las láminas de fruta reservadas y la almendra laminada o almendra en granillo. Horneamos durante 50 minutos o hasta que al pinchar la tarta con un palillo este salga limpio., Retiramos del horno y dejamos enfriar antes de desmoldar el pastel. Una vez frío espolvorear con azúcar glas para su decoración.",
+            "Imagenes": [
+                "https://i.blogs.es/43349e/tarta-francesa-manzana-1-2/1366_2000.jpg",
+                "https://3.bp.blogspot.com/-hT3b3qOgwIQ/UwFXc3n_0GI/AAAAAAAAOCk/GHNy_8c4ybk/d/M2.JPG",
+                "https://www.quieropostre.com/wp-content/uploads/2020/11/banda-de-manzana-1-683x1024.jpg"
+            ]
+        },
+        {
+            "Id": "7",
+            "Nombre": "Sopa de cebolla rostizada ",
+            "Categoria": "Plato Fuerte",
+            "Ingredientes": "4 cdas. de mantequilla, 1 cda. de harina de trigo, 1 cda. de hierbas finas, 3 ajos rallados, 3 cebollas picadas en julianas, 1 cda. de sal, 2 tazas de caldo de res, 1 taza de queso gouda, ½ taza de queso parmesano, Pan tostado ½ taza de queso de cabra",
+            "Preparacion": " En primer lugar, en una cacerola caliente funde la mantequilla, agrega la harina y las hierbas finas, y deja dorar por 1 minuto., Luego añade ajos y cebolla y dora durante 10 minutos. Vierte el caldo de res y deja hervir por unos 3 minutos más., Sirve en platos adecuados para horno, esparce los quesos por encima y hornea 10 minutos a 220° C. Finalmente, sirve la sopa acompañada de los panes tostados y decora con el queso de cabra.",
+            "Imagenes": [
+                "https://content-cocina.lecturas.com/medio/2020/04/24/paso-a-paso-para-realizar-sopa-clasica-de-cebolla-gratinada-al-horno-resultado-final_229f4b96_600x600.jpg",
+                "https://editorialtelevisa.brightspotcdn.com/dims4/default/e621fa1/2147483647/strip/true/crop/600x338+0+31/resize/1000x563!/quality/90/?url=https%3A%2F%2Fk2-prod-editorial-televisa.s3.amazonaws.com%2Fbrightspot%2Fwp-content%2Fuploads%2F2022%2F11%2Fsopa-cebolla-rostizada.jpg",
+                "https://static1.squarespace.com/static/58eeae76ff7c50fa313c951e/58f00f4eb3db2bed6e839346/5bd6ba464785d30272a58f8a/1540932922894/10282018_receta-sopa+de+cebolla.jpg?format=1500w"
+            ]
+        },
+        {
+            "Id": "8",
+            "Nombre": "Arroz con leche ",
+            "Categoria": "Postre",
+            "Ingredientes": "2 tazas de agua (500 ml), 1 taza de arroz (250 g), 1 astilla de canela (5 g), 2 tazas de leche (500 ml), 1/2 taza de (140 g), 1 taza de CREMA DE LECHE NESTLÉ® (240 g), 3 cucharadas de uvas pasas (30 g)",
+            "Preparacion": " PASO 1 Mezcla los ingredientes del arroz con leche, 1.  En una olla a fuego bajo, pon a cocinar por 15 minutos el agua, la astilla de canela y el arroz hasta que absorba la mayor parte del líquido., PASO 2 Añade la leche, 2.  Agrega la leche y con una cuchara revuelve constantemente., PASO 3 Agrega la leche condensada, 3.  Añade la LECHE CONDENSADA LA LECHERA® y sigue revolviendo hasta que el arroz se ablande y tome una consistencia cremosa., PASO 4 Mezcla la crema de leche, 4.  Adiciona la CREMA DE LECHE NESTLÉ® y cocina sin dejar de revolver por 4 minutos más., PASO 5 Integra las uvas pasas, 5.  Por último, agrega las uvas pasas y revuelve para integrar todo. Apaga el fuego y retira la olla., PASO 6 Llena los moldes individuales con la mezcla, 6.  Esta es una receta que puedes servir fría o caliente. Vierte la mezcla en 8 porciones iguales y para decorar puedes espolvorear canela molida por encima.",
+            "Imagenes": [
+                "https://media.istockphoto.com/id/119394438/es/foto/bud%C3%ADn-de-arroz.jpg?s=612x612&w=0&k=20&c=jb2-IhFti0xBECgYhVquL4EnzhbrBkTnOFpYCS5Kztk=",
+                "https://www.hogarmania.com/archivos/202203/arroz-con-leche-1280x720x80xX.jpg",
+                "https://www.recetasjudias.com/wp-content/uploads/2015/05/Sutlage-o-Muhallabeya-Arroz-con-Leche-1.jpg"
+            ]
+        },
+        {
+            "Id": "9",
             "Nombre": "Batido de Fresa con leche",
             "Categoria": "Bebidas",
-            "Ingredientes": "- Fresa, leche",
-            "Preparacion": "Se bate la fresa con la leche",
+            "Ingredientes": " 500 gr de fresas, 300 ml de leche entera, 5 c/s de azúcar",
+            "Preparacion": "En primer lugar tenemos que limpiar las fresas del rabito que tienen y las hojas que llevan en la parte superior del fruto. Ccuando las tengamos ya limpias las lavaremos bajo el grifo del agua y dejaremos escurrir en un escurridor., En un bol, las trocearemos en trozos del mismo tamaño y dejaremos macerar con el azúcar durante una hora para que las fresas absorban el azúcar y creen un jugo muy rico. Las batiremos con  la batidora de vaso o con la batidora eléctrica. A continuación ponemos las fresas junto a la leche y batir hasta que este todo homogéneo. Probaremos si está bien de azúcar a nuestro gusto y podemos añadirle más., Colar el batido antes de consumirlo, puede tener trazas de las fresas que no os gusten a mi me gusta porque aporta fibra pero es cuestión de gustos, queda más fino si lo pasamos por el colador.",
             "Imagenes": [
-                "https://disfrutandodelacocina.com/wp-content/uploads/2020/08/batido-fresa-3.jpg",
+                "https://www.dulcespostres.com/wp-content/uploads/2015/03/batido-de-fresa-1.jpg",
                 "https://www.comedera.com/wp-content/uploads/2022/04/BatIdo-de-fresa-shutterstock_398479468.jpg",
                 "https://okdiario.com/img/2019/12/19/receta-de-batIdo-refrescante-de-fresa-y-leche-condensada.jpg"
             ]
