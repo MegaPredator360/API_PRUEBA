@@ -8,6 +8,7 @@
             "Ingredientes": "- (454 g.) 1 Libra Pechuga de pollo.\n- (10 g.) 1 Sobre Consomé De Pollo.\n- 1 Cucharadita Aceite Vegetal.\n- (100 g.) 3/4 Taza Pimentón rojo Cortado en cubitos.\n- (55 g.) 1/2 Taza Apio Cortado finamente.\n- (75 g.) 1/2 Taza Cebolla Cortada finamente.\n- (75 g.) 2/3 Taza Aceitunas.\n- (25 g.) 1/8 Taza Alcaparras.\n- (300 g.) 1 1/2 Taza Arroz.\n- (8 g.) 1/8 Taza Cilantro Cortado finamente.\n- 3 Tazas Agua.\n- (10 g.) 1 Sobre Gallinita Sabor y Color.\n- (112 g.) 1 Taza Zanahorias Rallada.",
             "Preparacion": "1.  En un tazón, combinar el pollo con el Consomé De Pollo MAGGI® y marinar por 5 minutos, En una cacerola a fuego medio, agregar el aceite, el pollo y cocinar por 5 minutos o hasta que esté dorado, Añadir el pimiento, el apio, la cebolla, las aceitunas, las alcaparras y cocinar por 5 minutos, Agregar el arroz, el cilantro, el agua, el Sabor y Color MAGGI®, revolver y cocinar hasta que el agua se consuma, Añadir la zanahoria rallada, revolver, tapar y cocinar por 5 minutos.",
             "Imagenes": [
+                "https://www.recetascostarica.com/base/stock/Recipe/190-image/190-image_web.jpg",
                 "https://elsabor.com.ec/wp-content/uploads/2022/02/arroz-pollo.jpg",
                 "https://d1uz88p17r663j.cloudfront.net/original/e4710bfdb6b8546a182a62ff7ef7a5c8_ARROZ___.png",
                 "https://elsabor.com.ec/wp-content/uploads/2022/02/arroz-pollo.jpg"
@@ -32,6 +33,7 @@
             "Ingredientes": "500 ml de agua, 4 cucharadas colmadas de café granulado, 5 cucharadas de amaretto (o a gusto), 1 cucharada de azúcar, 4 yemas de huevo, 250g de azúcar flor, 1 queso crema, 100g de crema de leche, 500 ml de crema para batir muy fría, 500g de galletas de champaña, Chocolate en Polvo Gourmet para espolvorear",
             "Preparacion": "Hervir los 500 ml de agua. Verter sobre un bol y agregar el café. Revolver bien. Añadir el amaretto y azúcar y revolver. Reservar.En un bol, batir las yemas con 125g de azúcar flor, hasta que la mezcla quede uniforme y de un color amarillo claro. Reservar. En otro bol, batir el queso crema previamente molido con la crema de leche, hasta que quede una mezcla suave. Reservar. En otro bol, batir la crema para batir (recién sacada del refrigerador) e ir agregando de a poco 125g de azúcar flor, sin parar de batir. La crema tiene que quedar firme, cuidando que no se corte. Juntar la mezcla de las yemas con la mezcla del queso crema con movimientos envolventes, hasta que quede una mezcla homogénea. Agregar esta mezcla de a poco a la crema batida, con movimientos envolventes y cuidando que quede todo bien mezclado. Armado del postre: Usar una fuente grande de 35x25cm. Mojar una a una las galletas de champaña en el café (cuidando de que no queden con exceso de líquido y se rompan) e ir poniéndolas en la base de la fuente, hasta cubrirla completamente. Agregar la mitad de la mezcla. Luego, agregar otra capa de galletas de champaña mojadas en café. Poner la otra mitad de la mezcla. Espolvorear completamente con Chocolate en Polvo Gourmet, pasando éste por un colador. Poner en el freezer por 2 horas para que obtenga consistencia. Luego bajar al refrigerador y mantenerlo ahí.",
             "Imagenes": [
+                "https://bakeplaysmile.com/wp-content/uploads/2022/06/tiramisu-square.jpg",
                 "https://recetasdecocina.elmundo.es/wp-content/uploads/2022/08/tiramisu-postre-italiano.jpg",
                 "https://www.ilolay.com.ar/uploads/recetas/1658880862-Tiramisu.jpg",
                 "https://www.kingarthurbaking.com/sites/default/files/2023-03/Tiramisu_1426.jpg"
@@ -39,11 +41,12 @@
         },
         {
             "Id": "4",
-            "Nombre": "Sopa de lima con tortilla frita ",
+            "Nombre": "Sopa de lima con tortilla frita",
             "Categoria": "Plato Fuerte",
             "Ingredientes": "2 ½ litros de caldo de pollo, 1 pechuga de pollo sin hueso, 2 tazas de tiras de tortilla frita, 2 limas cortadas en rodajas, 2 hojas de laurel, ½ taza de cebolla picada, ½ taza de jitomate picado, ¼ taza de cilantro picado, 4 chiles habaneros asados",
             "Preparacion": "Cuece la pechuga en el caldo de pollo durante 30 minutos con una lima y laurel, deja enfriar y desmenuza. Regresa el pollo al caldo, rectifica el sazón y sirve. Termina con una rebanada de lima, un chile habanero, tiras de tortilla, jitomate y cebolla. Sabemos que tienes antojo de una sopa con sabor muy original, por eso no dudamos en compartirte esta sopa de lima con tortilla frita. Atrévete a prepararla y disfrutarla en casa.",
             "Imagenes": [
+                "https://www.carolinescooking.com/wp-content/uploads/2022/03/sopa-de-lima-Mexican-lime-soup-featured-pic-sq.jpg",
                 "https://editorialtelevisa.brightspotcdn.com/wp-content/uploads/2019/11/sopa-de-lima.jpg",
                 "https://assets.unileversolutions.com/recipes-v2/240849.jpg",
                 "https://www.196flavors.com/wp-content/uploads/2012/12/sopa-de-lima-2-FP.jpg"
@@ -51,7 +54,7 @@
         },
         {
             "Id": "5",
-            "Nombre": "Espaguetis con alcachofas y langostinos. Receta italiana. ",
+            "Nombre": "Espaguetis con alcachofas y langostinos",
             "Categoria": "Plato Fuerte",
             "Ingredientes": "320 g. de spaghetti de Garofalo, 16 langostinos o gambones, 4 alcachofas, 1 diente de ajo, 100 ml. de brandy o coñac, 1 limón, Sal y pimienta negra recién molida (al gusto de cada casa), Tomillo fresco, Aceite de oliva virgen extra",
             "Preparacion": " Para preparar las alcachofas debemos comenzar por cortar el tallo, dejando unos pocos centímetros unidos a la flor donde es comestible y tierno. Eliminamos las hojas exteriores más duras, dejando solo el corazón blando de la alcachofa. Cortamos la parte superior de la alcachofa, alrededor de 2-3 centímetros., Con la punta de un cuchillo pequeño pelamos la parte restante del tallo para eliminar la parte externa más dura y dejar solo el corazón blando. Cortamos las alcachofas longitudinalmente en 4 o 6 partes. A medida que las cortamos, las colocamos en un bowl con agua fría a la que le añadiremos el zumo de un limón. Con el limón ayudaremos a que las alcachofas se oxiden lo mínimo posible., Pelamos las colas de los langostinos y, con un cuchillo de punta, hacemos una pequeña incisión en el lomo para retirar la tripa. La podremos distinguir claramente ya que es un hilo oscuro que va de lado a lado de la cola., En una cazuela amplia calentamos un chorrito de aceite de oliva virgen extra y añadimos el diente de ajo pelado. Freímos el ajo unos segundos e incorporamos las colas de los langostinos. Las cocinamos por ambos lados 2 minutos y retiramos., En la misma cazuela y con el mismo aceite de los langostinos, incorporamos las alcachofas escurridas y secas. Salteamos las alcachofas, a fuego medio, hasta que comiencen a dorarse. Salpimentamos, añadimos un poco de tomillo y regamos con el brandy., Cocinamos 3 o 4 minutos más y añadimos las colas de langostinos que tenemos reservadas. Mezclamos bien y retiramos del fuego.",
@@ -63,7 +66,7 @@
         },
         {
             "Id": "6",
-            "Nombre": "tarta francesa de manzana y almendra ",
+            "Nombre": "Tarta francesa de manzana y almendra",
             "Categoria": "Postre",
             "Ingredientes": "Para 6 personas, Yogur natural 150 ml, Huevo talla L 3, Mantequilla 170 gExtracto de vainilla , 1 cucharadita, Azúcar 150 g, Manzana 6, Harina de trigo 200 gBaking Powder Royal 8 g, Bicarbonato sódico , media cucharadita, Almendra laminada 60 g, Azúcar glas30 gCómo hacer tarta francesa de manzana y almendraDificultad: FácilTiempo total1 h 10 mElaboración20 m Cocción50 m ",
             "Preparacion": "Comenzaremos pelando, descorazonando y partiendo las manzanas en cuartos. Una vez en cuartos las cortamos en láminas finas. Reservamos. Precalentamos el horno a 180 º centígrados con calor arriba y abajo., En un bol batimos la mantequilla a temperatura ambiente junto con el azúcar con unas varillas o batidora con varillas, hasta que la mezcla suave y esponjosa. Añadimos los huevos y la vainilla y seguimos batiendo durante tres minutos más.Echamos el yogur a la mezcla y combinamos con una espátula de silicona. Por otra parte en otro bol mezclamos la harina, el Baking Powder Royal y el bicarbonato, tamizándola posteriormente con un colador y lo mezclamos con los ingredientes húmedos., Engrasamos un molde redondo para tarta de unos 25 centímetros de diámetro con un poco de mantequilla, le forramos la base con papel de hornear y vertemos la mitad de la mezcla de la masa. Extendemos con una espátula y colocamos desordenadamente las láminas de manzana, dejando algunas para la decoración., Echamos por encima el resto de la masa cubriendo las manzanas, y decoramos al gusto con las láminas de fruta reservadas y la almendra laminada o almendra en granillo. Horneamos durante 50 minutos o hasta que al pinchar la tarta con un palillo este salga limpio., Retiramos del horno y dejamos enfriar antes de desmoldar el pastel. Una vez frío espolvorear con azúcar glas para su decoración.",
