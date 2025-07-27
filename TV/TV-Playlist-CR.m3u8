@@ -29,6 +29,8 @@ https://latamvdo.com:3870/hybrid/play.m3u8
 https://5fc584f3f19c9.streamlock.net:443/genteopa/videogenteopa/playlist.m3u8
 #EXTINF:-1 tvg-id="ExtraTV42.cr",Extra TV Canal 42 (480p)
 http://200.229.147.210:8000/play/a00q/index.m3u8
+#EXTINF:-1 tvg-id="360RFTV.cr",360 RFTV (576p) [Geo-blocked]
+https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
 #EXTINF:-1 tvg-id="AgrotendenciaTV.cr",Agrotendencia TV (1080p)
 http://179.63.6.12:9000/play/a001
 #EXTINF:-1 tvg-id="AntenaSeisTV.cr",Antena Seis TV (720p) [Geo-blocked]
@@ -52,6 +54,8 @@ https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FUTV.cr" http-referrer="https://www.futvcr.com/",FUTV Costa Rica (720p)
 #EXTVLCOPT:http-referrer=https://www.futvcr.com/
 http://200.229.147.210:8085/play/a05j/index.m3u8
+#EXTINF:-1 tvg-id="GAMTVcr.cr@SD",GAMTV.cr (720p)
+https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr",Garabito TV (720p)
 https://59ef525c24caa.streamlock.net/garabitoTV/garabitotv/playlist.m3u8
 #EXTINF:-1 tvg-id="TicaVision.cr",HBTV TicaVisión (1080p)
@@ -64,40 +68,32 @@ http://k4.usastreams.com/limontv1/limontv1/playlist.m3u8
 https://lstv.duckdns.org:449/hls/lstv.m3u8
 #EXTINF:-1 tvg-id="LuzNacienteTV.cr",Luz Naciente TV (720p)
 https://streeming.protoscr.com:3858/live/streeminglive.m3u8
-#EXTINF:-1 tvg-id="MetaVersusCR.cr",MetaVersus CR (480p)
-https://vivo.solumedia.com:19360/metaversus/metaversus.m3u8
-#EXTINF:-1 tvg-id="MultizonasTV.cr",Multizonas TV (720p)
-https://cloudvideo.servers10.com:8081/8068/index.m3u8
 #EXTINF:-1 tvg-id="NicoyaTV.cr",Nicoya TV (720p) [Not 24/7]
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr",Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
 #EXTINF:-1 tvg-id="QuinceUCR.cr",Quince UCR (720p) [Not 24/7]
-http://163.178.170.127:1935/quinceucr/quinceucr/playlist.m3u8
+https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr",Radio 88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
-#EXTINF:-1 tvg-id="RadioPuertoTV.cr",Radio Puerto TV (720p)
-https://cloudvideo.servers10.com:8081/8256/index.m3u8
+#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr",Radio Turrialba TV Sports (720p) [Geo-blocked]
+https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
 #EXTINF:-1 tvg-id="RetroxTV.cr@SD",Retrox TV (720p)
 https://acceso.radiosportstv.online:3259/live/retroxtvlive.m3u8
-#EXTINF:-1 tvg-id="RTTV.cr",RTTV (720p) [Not 24/7]
-https://cloudvideo.servers10.com:19360/8212/8212.m3u8
-#EXTINF:-1 tvg-id="RTVChirripo.cr",RTV Chirripó (720p)
-https://lstv.duckdns.org:449/hls/rtchirripo.m3u8
 #EXTINF:-1 tvg-id="SanJoseTV.cr",San José TV (1080p)
 https://rtmp.info/sanjosetv/envivo/playlist.m3u8
 #EXTINF:-1 tvg-id="SanVitoTelevision.cr",San Vito Televisión (720p)
-https://stmv.streamingvip.click/sanvitotv/sanvitotv/playlist.m3u8
+https://acceso.radiosportstv.online:3150/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="SarapiquiTV.cr",Sarapiqui TV (720p) [Not 24/7]
 http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="SOYPlanchaTV.cr",SOY Plancha TV (720p)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
+#EXTINF:-1,Super Radio TV (720p)
+https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8S
 #EXTINF:-1 tvg-id="TDMas.cr",TD+ HD (1080p)
 http://181.78.109.48:9998/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="TDMas2.cr",TD+2 HD (1080p)
 http://45.171.64.30:8800/play/a00q
-#EXTINF:-1 tvg-id="TDtv.cr",TDtv (720p)
-https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="TeleUno.cr",Tele Uno (720p) [Not 24/7]
 http://tv.teleunotv.cr:1935/TVUNO/TVUNO/playlist.m3u8
 #EXTINF:-1 tvg-id="TeleBrunca.cr",TeleBrunca (720p) [Not 24/7]
@@ -108,10 +104,17 @@ https://s2.cwebtv.net:4433/telefides/telefides/playlist.m3u8
 https://mist01.homestream.fun/hls/tlmas904/0_1/index.m3u8
 #EXTINF:-1,Teletica Radio (1080p)
 http://190.7.192.162:8007/play/s11
+#EXTINF:-1 tvg-id="TeleredTelevision.cr" http-referrer="https://teleredtelevision.com/",Telered Television (576p) [Geo-blocked]
+#EXTVLCOPT:http-referrer=https://teleredtelevision.com/
+https://k20.usastreams.com:8081/telered/index.m3u8
 #EXTINF:-1 tvg-id="TeleSURCostaRica.cr",TeleSUR Costa Rica (720p) [Not 24/7]
 https://s1.tvdatta.com:3582/live/telesurlive.m3u8
+#EXTINF:-1 tvg-id="TicaVision.cr@SD",TicaVision
+https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 #EXTINF:-1 tvg-id="TigoSports.cr",Tigo Sports (Costa Rica)
 http://45.163.139.42:8000/play/a03r/index.m3u8
+#EXTINF:-1 tvg-id="TDtv.cr",Turrialba TDtv (720p)
+https://cloudvideo.servers10.com:8081/8230/index.m3u8
 #EXTINF:-1 tvg-id="Trivision36.cr" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Trivisión 36 (1080p)
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
 https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
@@ -130,19 +133,6 @@ https://59ef525c24caa.streamlock.net/vmtv/vmlatino/playlist.m3u8
 #EXTINF:-1 tvg-id="VoiceOverRadioTV.cr",VoiceOver Radio TV (720p)
 https://cloudvideo.servers10.com:8081/8198/index.m3u8
 #EXTINF:-1 tvg-id="XpressoJovenRadio.cr",Xpresso Joven Radio (720p)
-https://stmv.streamingvip.click/xpressojovenradiotv/xpressojovenradiotv/playlist.m3u8
-#EXTINF:-1 tvg-id="ZonaMusicTV.cr",Zona Music TV (1080p)
-https://acceso.radiosportstv.online:3022/stream/play.m3u8
+https://vivo.solumedia.com:19360/xpressojoven/xpressojoven.m3u8
 #EXTINF:-1 tvg-id="ZurquiTV.cr",Zurquí TV (720p)
 https://videoserver.tmcreativos.com:19360/gesfnvpamn/gesfnvpamn.m3u8
-#EXTINF:-1 tvg-id="GAMTVcr.cr@SD",GAMTV.cr (720p)
-https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
-#EXTINF:-1 tvg-id="TicaVision.cr@SD",TicaVision
-https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
-#EXTINF:-1 tvg-id="TeleredTelevision.cr" http-referrer="https://teleredtelevision.com/",Telered Television (576p) [Geo-blocked]
-#EXTVLCOPT:http-referrer=https://teleredtelevision.com/
-https://k20.usastreams.com:8081/telered/index.m3u8
-#EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr",Radio Turrialba TV Sports (720p) [Geo-blocked]
-https://acceso.radiosportstv.online:3723/live/radioturrialbatvlive.m3u8
-#EXTINF:-1 tvg-id="360RFTV.cr",360 RFTV (576p) [Geo-blocked]
-https://acceso.radiosportstv.online:3417/live/360rftvcrlive.m3u8
