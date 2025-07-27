@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8" ?>
-<tv generator-info-name="none" generator-info-url="none">
-    <channel id="Cartoon.Network.USA.-.Eastern.Feed.us">
-        <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" />
-        <icon src="https://cdn.tvpassport.com/image/station/240x135/v2/s12131_h15_aa.png" />
-        <url>http://www.tvpassport.com</url>
-        <display-name lang="en">Cartoon Network USA - Eastern Feed</display-name>
-    </channel>
-</tv>
