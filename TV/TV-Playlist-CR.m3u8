@@ -39,8 +39,6 @@ https://video1.azulstream.com:8081/antenaseistv/index.m3u8
 https://acceso.radiosportstv.online:3368/live/cartagomediostvlive.m3u8
 #EXTINF:-1 tvg-id="ColosalTV.cr",Colosal TV (720p) [Not 24/7]
 http://tv.ticosmedia.com:1935/COLOSAL/COLOSAL/playlist.m3u8
-#EXTINF:-1 tvg-id="ComunicacionesJimenez.cr",Comunicaciones Jiménez (720p) [Not 24/7]
-https://s1.tvdatta.com:3156/live/jimeneztvlive.m3u8
 #EXTINF:-1 tvg-id="CostaRicaChannel.cr",Costa Rica Channel (720p)
 https://video0.rogohosting.com:19360/8006/8006.m3u8
 #EXTINF:-1 tvg-id="CotoBrusTV.cr",Coto Brus TV (720p)
