@@ -13,8 +13,6 @@ https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
 http://190.7.192.162:8000/play/s1
 #EXTINF:-1 tvg-id="Canal8.cr",Canal 8 (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
-#EXTINF:-1 tvg-id="Canal9.cr",Canal 9 (720p) [Geo-blocked]
-http://201.201.149.86:8080/livestream/stream.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr",Canal 10 (576i) [Geo-blocked]
 https://acceso.radiosportstv.online:3285/live/canal10costaricalive.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr",Canal 11 (720p) [Geo-blocked]
@@ -89,7 +87,7 @@ http://tiquiciatv.com:1935/stv/web/playlist.m3u8
 #EXTINF:-1 tvg-id="SOYPlanchaTV.cr",SOY Plancha TV (720p)
 https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8
 #EXTINF:-1,Super Radio TV (720p)
-https://59ef525c24caa.streamlock.net/vmtv/soyplancha/playlist.m3u8S
+https://video20.klm99.com:3080/live/superradiotvlive.m3u8
 #EXTINF:-1 tvg-id="TDMas.cr",TD+ HD (1080p)
 http://181.78.109.48:9998/play/a00q/index.m3u8
 #EXTINF:-1 tvg-id="TDMas2.cr",TD+2 HD (1080p)
@@ -115,9 +113,6 @@ https://5eac7b031d945.streamlock.net/TICAVISION/TICAVISION/playlist.m3u8
 http://45.163.139.42:8000/play/a03r/index.m3u8
 #EXTINF:-1 tvg-id="TDtv.cr",Turrialba TDtv (720p)
 https://cloudvideo.servers10.com:8081/8230/index.m3u8
-#EXTINF:-1 tvg-id="Trivision36.cr" http-user-agent="Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160",Trivisión 36 (1080p)
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/83.0.4103.97 Safari/537.36 CrKey/1.44.191160
-https://liveingesta118.cdnmedia.tv/trivision36live/smil:dvrlive.smil/playlist.m3u8?DVR=
 #EXTINF:-1 tvg-id="TVSurCanal9.cr",TV Sur Canal 9 (620p) [Not 24/7]
 http://tv.ticosmedia.com:1935/TVSUR/TVSUR/playlist.m3u8
 #EXTINF:-1 tvg-id="TVSurCanal14.cr",TV Sur Canal 14 (1080p)
