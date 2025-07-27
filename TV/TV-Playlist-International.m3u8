@@ -26,8 +26,6 @@ http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 http://38.41.8.1:8000/play/a0ri
 #EXTINF:-1,TCM Latam HD
 http://190.60.38.45:8001/play/a00w/index.m3u8
-#EXTINF:-1,Teletica HD
-http://190.7.192.162:8007/play/s10
 #EXTINF:-1,TNT Latam HD
 http://38.246.75.5:8000/play/a045/index.m3u8
 #EXTINF:-1,TNT Series Latam HD
