@@ -9,7 +9,7 @@ https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr",Canal 6 (720p) [Geo-blocked]
 https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Teletica7.cr",Teletica Canal 7 (1080p)
+#EXTINF:-1 tvg-id="Teletica7.cr",Canal 7 Teletica (1080p)
 http://190.7.192.162:8000/play/s1
 #EXTINF:-1 tvg-id="Canal8.cr",Canal 8 (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
@@ -21,6 +21,8 @@ https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
 http://190.7.192.164:8023/play/s28
 #EXTINF:-1 tvg-id="TVN14.cr",Canal 14 San Carlos (720p) [Not 24/7]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
+#EXTINF:-1 tvg-id="QuinceUCR.cr",Canal 15 UCR (720p) [Not 24/7]
+https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="Canal17TVNosara.cr@HD",Canal 17 TV Nosara (720p)
 https://latamvdo.com:3870/hybrid/play.m3u8
 #EXTINF:-1 tvg-id="OPA.cr@SD",¡OPA! Canal 38 (1080i) [Geo-blocked]
@@ -70,8 +72,6 @@ https://streeming.protoscr.com:3858/live/streeminglive.m3u8
 https://59ef525c24caa.streamlock.net/nicoyatv/nicoyatv/playlist.m3u8
 #EXTINF:-1 tvg-id="NorteInformativoTV.cr",Norte Informativo TV (240p)
 https://videohd.live:19360/8076/8076.m3u8
-#EXTINF:-1 tvg-id="QuinceUCR.cr",Quince UCR (720p) [Not 24/7]
-https://wowza.ucr.ac.cr/quinceucr/_definst_/quinceucr.stream/playlist.m3u8
 #EXTINF:-1 tvg-id="88Stereo.cr",Radio 88 Stereo (720p) [Not 24/7]
 http://k3.usastreams.com/CableLatino/88stereo/playlist.m3u8
 #EXTINF:-1 tvg-id="RadioTurrialbaTVSports.cr",Radio Turrialba TV Sports (720p) [Geo-blocked]
