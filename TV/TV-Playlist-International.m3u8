@@ -16,6 +16,8 @@ http://45.175.139.194:8000/play/74
 http://190.131.228.60:8000/play/a03n/index.m3u8
 #EXTINF:-1,Discovery ID Latam HD
 http://190.60.40.34:8001/play/a0an
+#EXTINF:-1,DW Español
+http://190.119.40.74:8200/play/a0z2
 #EXTINF:-1,ETC TV (Chile)
 http://38.7.194.41:8000/play/a0j3
 #EXTINF:-1,FX Latam HD
