@@ -7,10 +7,10 @@ http://190.61.107.30:8000/play/a00s/index.m3u8
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr",Canal 4 (720p) [Geo-blocked]
 https://alba-cr-repretel-c4.stream.mediatiquestream.com/index.m3u8
-#EXTINF:-1 tvg-id="Canal6.cr",Canal 6 (720p) [Geo-blocked]
-https://alba-cr-repretel-c6.stream.mediatiquestream.com/index.m3u8
+#EXTINF:-1 tvg-id="Canal6.cr",Canal 6 (720p)
+http://45.71.38.3:8010/play/a03e/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr",Canal 7 Teletica (1080p)
-http://190.7.192.162:8000/play/s1
+http://45.163.139.42:8000/play/a02k/index.m3u8
 #EXTINF:-1 tvg-id="Canal8.cr",Canal 8 (720p) [Not 24/7]
 https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr",Canal 10 (576i) [Geo-blocked]
