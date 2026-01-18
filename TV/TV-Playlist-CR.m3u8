@@ -51,7 +51,7 @@ http://200.229.147.210:8085/play/a044/index.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FUTV.cr" http-referrer="https://www.futvcr.com/",FUTV Costa Rica (720p)
 #EXTVLCOPT:http-referrer=https://www.futvcr.com/
-http://200.229.147.210:8085/play/a05j/index.m3u8
+http://190.14.10.19:16000/play/a06q/index.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD",GAMTV.cr (720p)
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr",Garabito TV (720p)
