@@ -1,50 +1,50 @@
 #EXTINF:-1,Adult Swim Latam HD
 http://190.7.19.197:232/play/a01s/index.m3u8
+#EXTINF:-1,AXN Latam HD
+http://190.0.247.38:8000/play/a01g
 #EXTINF:-1,BBC ONE HD
-http://176.65.146.151:4001/play/a08m/index.m3u8
+http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:-1,bitMe HD
 http://190.0.247.38:8000/play/a00h
-#EXTINF:-1,Cartoon Network USA East Feed SD
-https://tvpass.org/live/CartoonNetworkEast/sd
-#EXTINF:-1,Cartoon Network USA East Feed HD
-https://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,Cartoon Network USA East HD
+http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
 #EXTINF:-1,Cartoon Network Latam HD
-http://38.159.229.42:8000/play/a0od/index.m3u8
+http://38.183.213.254:8000/play/a0d0/index.m3u8
 #EXTINF:-1,CityTV (Colombia)
-http://45.175.139.194:8000/play/74
+http://190.61.47.54:8000/play/a01a/index.m3u8
 #EXTINF:-1,Discovery Home & Health Latam
-http://190.131.228.60:8000/play/a03n/index.m3u8
+http://45.181.120.65:9087/play/033/index.m3u8
 #EXTINF:-1,Discovery ID Latam HD
-http://190.60.40.34:8001/play/a0an
+http://179.1.202.41:45000/play/a0k3/index.m3u8
 #EXTINF:-1,DW Español
 http://190.119.40.74:8200/play/a0z2
 #EXTINF:-1,ETC TV (Chile)
-http://38.7.194.41:8000/play/a0j3
+http://38.250.125.162:9800/play/042/index.m3u8
 #EXTINF:-1,FX Latam HD
-http://177.253.236.139:1013/play/a0dp/index.m3u8
-#EXTINF:-1,HBO Latam
-http://190.104.67.149:234/play/a0oc/index.m3u8
+http://190.0.247.38:8000/play/a01c
+#EXTINF:-1,HBO Latam HD
+http://181.119.86.1:8000/play/a00s
 #EXTINF:-1,HBO 2 Latam
 http://45.181.120.65:9087/play/130/index.m3u8
-#EXTINF:-1,HBO Family Latam
-http://190.102.246.93:9005/play/a01g
+#EXTINF:-1,HBO Family Latam HD
+http://190.60.37.118:4000/play/a099
 #EXTINF:-1,Mega (Chile)
-http://45.181.120.155:9800/play/005
-#EXTINF:-1,Nickelodeon USA East Feed SD
+http://190.60.37.118:4000/play/a0ad
+#EXTINF:-1,Nickelodeon USA East SD
 http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
 #EXTINF:-1,Nickelodeon Latam HD
-http://190.60.48.85:9080/play/a1bi
+http://181.119.86.1:8000/play/a030
 #EXTINF:-1,NickToons East
 http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
 #EXTINF:-1,Star Channel Latam HD
-http://143.0.67.77:8000/play/a079/index.m3u8
-#EXTINF:-1,TCM Latam HD
-http://190.60.38.45:8001/play/a00w/index.m3u8
+http://190.0.247.38:8000/play/a015
+#EXTINF:-1,TCM Latam
+http://190.60.37.118:4000/play/a083
 #EXTINF:-1,TNT Latam HD
-http://190.60.59.79:8000/play/a0jw
+http://179.1.202.41:45000/play/a08o/index.m3u8
 #EXTINF:-1,TNT Series Latam HD
-http://179.1.202.41:45000/play/a0ei/index.m3u8
+http://190.60.37.118:4000/play/a0by
 #EXTINF:-1,Tooncast Latam HD
-http://181.176.69.236:8028/play/a0wb/index.m3u8
+http://45.189.151.7:8000/play/a07o
 #EXTINF:-1,Warner Channel Latam HD
-http://38.7.194.41:8000/play/a0ht
+http://181.79.87.91:9500/play/a0f3/index.m3u8
