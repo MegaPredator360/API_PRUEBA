@@ -6,8 +6,8 @@ http://190.0.247.38:8000/play/a01g
 http://176.65.146.224:4001/play/a08e/index.m3u8
 #EXTINF:-1,bitMe HD
 http://190.0.247.38:8000/play/a00h
-#EXTINF:-1,Cartoon Network USA East HD
-http://fl2.moveonjoy.com/CARTOON_NETWORK/index.m3u8
+#EXTINF:-1,Cartoon Network USA East SD
+https://tvpass.org/live/CartoonNetworkEast/sd
 #EXTINF:-1,Cartoon Network Latam HD
 http://38.183.213.254:8000/play/a0d0/index.m3u8
 #EXTINF:-1,CityTV (Colombia)
@@ -31,11 +31,11 @@ http://190.60.37.118:4000/play/a099
 #EXTINF:-1,Mega (Chile)
 http://190.60.37.118:4000/play/a0ad
 #EXTINF:-1,Nickelodeon USA East SD
-http://fl1.moveonjoy.com/NICKELODEON/index.m3u8
+https://tvpass.org/live/NickelodeonEast/sd
 #EXTINF:-1,Nickelodeon Latam HD
 http://181.119.86.1:8000/play/a030
 #EXTINF:-1,NickToons East
-http://fl1.moveonjoy.com/NICKTOONS/index.m3u8
+https://tvpass.org/live/NicktoonsEast/sd
 #EXTINF:-1,Star Channel Latam HD
 http://190.0.247.38:8000/play/a015
 #EXTINF:-1,TCM Latam
