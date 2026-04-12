@@ -3,7 +3,7 @@ https://vid.canal1cr.com:3424/multi_live/play_1080.m3u8
 #EXTINF:-1 tvg-id="Canal3KMKTV.cr@SD",Canal 3 KMK TV (1080p) [Not 24/7]
 https://live20.bozztv.com/giatv/giatv-KMKTV/KMKTV/chunks.m3u8
 #EXTINF:-1 tvg-id="Canal4.cr",Canal 4 (720p)
-http://45.5.116.178:8000/play/a03x/index.m3u8
+http://24.152.54.30:8085/play/a02y/index.m3u8
 #EXTINF:-1 tvg-id="Canal6.cr",Canal 6 (720p)
 http://45.5.119.97:12500/play/a047/index.m3u8
 #EXTINF:-1 tvg-id="Teletica7.cr",Canal 7 Teletica (1080p)
@@ -13,9 +13,9 @@ https://mdstrm.com/live-stream-playlist/5a7b1e63a8da282c34d65445.m3u8
 #EXTINF:-1 tvg-id="Canal10.cr",Canal 10 (576i) [Geo-blocked]
 https://acceso.mediosdecostarica.com:3606/live/canal10costaricalive.m3u8
 #EXTINF:-1 tvg-id="Canal11.cr",Canal 11 (720p) [Geo-blocked]
-https://alba-cr-repretel-c11.stream.mediatiquestream.com/index.m3u8
+http://45.186.106.207:8000/play/a09v/index.m3u8
 #EXTINF:-1 tvg-id="TreceCostaRicaTelevision.cr",Canal 13 (1080p)
-http://190.7.192.164:8023/play/s28
+http://190.83.15.112:8000/play/a0c0/index.m3u8
 #EXTINF:-1 tvg-id="TVN14.cr",Canal 14 San Carlos (720p) [Not 24/7]
 http://tvn.obix.tv:1935/TVN/CH14.stream_720p/playlist.m3u8
 #EXTINF:-1 tvg-id="QuinceUCR.cr",Canal 15 UCR (720p) [Not 24/7]
@@ -48,7 +48,7 @@ https://livecdn.enlace.plus/ejtv/smil:ejtv-hd.smil/playlist.m3u8
 https://627bb251f23c7.streamlock.net:444/ExtremaTV/ExtremaTV/playlist.m3u8
 #EXTINF:-1 tvg-id="FUTV.cr" http-referrer="https://www.futvcr.com/",FUTV Costa Rica (1080p)
 #EXTVLCOPT:http-referrer=https://www.futvcr.com/
-http://200.125.170.120:8000/play/a05u
+http://190.92.10.66:4000/play/a00c/index.m3u8
 #EXTINF:-1 tvg-id="GAMTVcr.cr@SD",GAMTV.cr (720p)
 https://v2.azulstream.com:8081/gamtv/gamtv/index.m3u8
 #EXTINF:-1 tvg-id="GarabitoTV.cr",Garabito TV (720p)
