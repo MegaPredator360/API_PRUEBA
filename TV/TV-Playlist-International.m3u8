@@ -12,12 +12,16 @@ https://tvpass.org/live/CartoonNetworkEast/sd
 http://38.183.213.254:8000/play/a0d0/index.m3u8
 #EXTINF:-1,CityTV (Colombia)
 http://190.61.47.54:8000/play/a01a/index.m3u8
-#EXTINF:-1,Discovery Home & Health Latam
-http://45.181.120.65:9087/play/033/index.m3u8
-#EXTINF:-1,Discovery ID Latam HD
-http://186.148.175.138:8000/play/a05m
-#EXTINF:-1,DW Español
+#EXTINF:-1,CGTN Español
 http://190.119.40.74:8200/play/a0z2
+#EXTINF:-1,Discovery Home & Health
+http://45.173.12.70:8000/play/a070/index.m3u8
+#EXTINF:-1,Discovery ID
+http://186.148.175.138:8000/play/a05m
+#EXTINF:-1,Discovery TLC
+http://190.0.247.38:8000/play/a00v
+#EXTINF:-1,DW Español
+http://201.182.251.146:9000/play/a04l/index.m3u8
 #EXTINF:-1,ETC TV (Chile)
 http://38.250.125.162:9800/play/042/index.m3u8
 #EXTINF:-1,FX Latam HD
